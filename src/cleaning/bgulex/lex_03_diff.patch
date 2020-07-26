@@ -1,0 +1,211 @@
+--- data/clean/spmrl/bgulex/bgulex-03.hr	2019-12-15 12:58:47.000000000 +0200
++++ data/clean/spmrl/bgulex/bgulex-03.hr	2019-12-13 01:01:58.000000000 +0200
+@@ -9435,9 +9435,9 @@
+ אלעס :VB-MF-S-1-FUTURE-PAAL: לעס :VB-MF-S-1-FUTURE-NIFAL: נלעס
+ אלעט :VB-MF-S-1-FUTURE-PAAL: לעט
+ אלעוזי :NNP-M-S: אלעוזי
+-אלעזר :NNP-M-S: אלעזר :NNP-M-S: אלעזר
++אלעזר :NNP-M-S: אלעזר
+ אלעז :VB-MF-S-1-FUTURE-PAAL: לעז
+-אל :NEG: אל :IN: אל :NN-M-S: אל :NNT-M-S: אל :MD-M-S-PAST: אל :RB: אל
++אל :NEG: אל :IN: אל :NN-M-S: אל :NNT-M-S: אל :MD-M-S-PAST: אל :RB: אל :NNP-M-S: אל
+ אמ"י :NNP-M-S: אמ"י
+ אמ"נ :NN-M-S: אמ"ן
+ אמא'לה :NN-F-S: אמא
+@@ -13621,12 +13621,12 @@
+ ארבו :NN-M-S:S_PP-M-S-3 ארבה :VB-MF-P-3-PAST-PAAL: ארב :VB-MF-P-2-IMPERATIVE-PAAL: ארב
+ ארבעה :CD-M-P: ארבעה
+ ארבעים :CD-MF-P: ארבעים :CDT-MF-P: ארבעים
+-ארבעתינו :PRP-PERS:S_PRN-MF-P-1 ארבעה
+-ארבעתכם :PRP-PERS:S_PRN-M-P-2 ארבעה
+-ארבעתכן :PRP-PERS: ארבעה
+-ארבעתם :PRP-PERS:S_PRN-M-P-3 ארבעה
+-ארבעתנו :PRP-PERS:S_PRN-MF-P-1 ארבעה
+-ארבעתן :PRP-PERS: ארבעה
++ארבעתינו :PRP:S_PRN-MF-P-1 ארבעה
++ארבעתכם :PRP:S_PRN-M-P-2 ארבעה
++ארבעתכן :PRP:S_PRN-F-P-2 ארבעה
++ארבעתם :PRP:S_PRN-M-P-3 ארבעה
++ארבעתנו :PRP:S_PRN-MF-P-1 ארבעה
++ארבעתן :PRP:S_PRN-F-P-3 ארבעה
+ ארבעת :CDT-M-P: ארבעה
+ ארבע :CD-F-P: ארבע :CDT-F-S: ארבע :VB-MF-S-1-FUTURE-PIEL: ריבע
+ ארב :VB-M-S-3-PAST-PAAL: ארב
+@@ -89350,12 +89350,12 @@
+ שבעתה :NN-F-S:S_PP-F-S-3 שבעה
+ שבעתיים :RB: שבעתיים
+ שבעתי :NN-F-S:S_PP-MF-S-1 שבעה :VB-MF-S-1-PAST-PAAL: שבע
+-שבעתכם :NN-F-S:S_PP-M-P-2 שבעה :PRP-PERS:S_PRN-MF-P-1 שבעה
+-שבעתכן :NN-F-S:S_PP-F-P-2 שבעה :PRP-PERS:S_PRN-F-P-2 שבעה
++שבעתכם :NN-F-S:S_PP-M-P-2 שבעה :PRP:S_PRN-MF-P-1 שבעה
++שבעתכן :NN-F-S:S_PP-F-P-2 שבעה :PRP:S_PRN-F-P-2 שבעה
+ שבעתך :NN-F-S:S_PP-M-S-2 שבעה :NN-F-S:S_PP-F-S-2 שבעה
+-שבעתם :NN-F-S:S_PP-M-P-3 שבעה :VB-M-P-2-PAST-PAAL: שבע :PRP-PERS:S_PRN-M-P-3 שבעה
+-שבעתנו :NN-F-S:S_PP-MF-P-1 שבעה :PRP-PERS:S_PRN-MF-P-1 שבעה
+-שבעתן :NN-F-S:S_PP-F-P-3 שבעה :VB-F-P-2-PAST-PAAL: שבע :PRP-PERS:S_PRN-M-P-3 שבעה
++שבעתם :NN-F-S:S_PP-M-P-3 שבעה :VB-M-P-2-PAST-PAAL: שבע :PRP:S_PRN-M-P-3 שבעה
++שבעתנו :NN-F-S:S_PP-MF-P-1 שבעה :PRP:S_PRN-MF-P-1 שבעה
++שבעתן :NN-F-S:S_PP-F-P-3 שבעה :VB-F-P-2-PAST-PAAL: שבע :PRP:S_PRN-M-P-3 שבעה
+ שבעתו :NN-F-S:S_PP-M-S-3 שבעה
+ שבעת :JJT-F-S: שבע :NNT-F-S: שבעה :CDT-M-P: שבעה :VB-M-S-2-PAST-PAAL: שבע :VB-F-S-2-PAST-PAAL: שבע
+ שבעותה :NN-F-S:S_PP-F-S-3 שבעות
+@@ -89743,12 +89743,12 @@
+ ששן :NN-M-S:S_PP-F-P-3 שש :BN-M-S-A-PAAL:S_PP-F-P-3 שש
+ ששתה :BN-F-S-A-PAAL:S_PP-F-S-3 שש
+ ששתי :VB-MF-S-1-PAST-PAAL: שש :BN-F-S-A-PAAL:S_PP-MF-S-1 שש
+-ששתכם :BN-F-S-A-PAAL:S_PP-M-P-2 שש :PRP-PERS:S_PRN-M-P-2 שישה
+-ששתכן :BN-F-S-A-PAAL:S_PP-F-P-2 שש :PRP-PERS:S_PRN-F-P-2 שישה
++ששתכם :BN-F-S-A-PAAL:S_PP-M-P-2 שש :PRP:S_PRN-M-P-2 שישה
++ששתכן :BN-F-S-A-PAAL:S_PP-F-P-2 שש :PRP:S_PRN-F-P-2 שישה
+ ששתך :BN-F-S-A-PAAL:S_PP-M-S-2 שש :BN-F-S-A-PAAL:S_PP-F-S-2 שש
+-ששתם :VB-M-P-2-PAST-PAAL: שש :BN-F-S-A-PAAL:S_PP-M-P-3 שש :PRP-PERS:S_PRN-M-P-3 שישה
+-ששתנו :BN-F-S-A-PAAL:S_PP-MF-P-1 שש :PRP-PERS:S_PRN-MF-S-1 שישה
+-ששתן :VB-F-P-2-PAST-PAAL: שש :BN-F-S-A-PAAL:S_PP-F-P-3 שש :PRP-PERS:S_PRN-F-P-3 שישה
++ששתם :VB-M-P-2-PAST-PAAL: שש :BN-F-S-A-PAAL:S_PP-M-P-3 שש :PRP:S_PRN-M-P-3 שישה
++ששתנו :BN-F-S-A-PAAL:S_PP-MF-P-1 שש :PRP:S_PRN-MF-S-1 שישה
++ששתן :VB-F-P-2-PAST-PAAL: שש :BN-F-S-A-PAAL:S_PP-F-P-3 שש :PRP:S_PRN-F-P-3 שישה
+ ששתו :BN-F-S-A-PAAL:S_PP-M-S-3 שש
+ ששת :CDT-M-P: שישה :BNT-F-S-A-PAAL: שש :VB-M-S-2-PAST-PAAL: שש :VB-F-S-2-PAST-PAAL: שש
+ ששונה :NN-M-S:S_PP-F-S-3 ששון
+@@ -95106,14 +95106,14 @@
+ שלוב :JJ-M-S: שלוב :JJT-M-S: שלוב
+ שלושה :CD-M-P: שלושה
+ שלושים :CD-MF-P: שלושים :CDT-MF-P: שלושים
+-שלושתיכם :PRP-PERS:S_PRN-M-P-2 שלושה
+-שלושתיכן :PRP-PERS:S_PRN-F-P-2 שלושה
+-שלושתינו :PRP-PERS:S_PRN-MF-P-1 שלושה
+-שלושתכם :PRP-PERS:S_PRN-M-P-2 שלושה
+-שלושתכן :PRP-PERS:S_PRN-F-P-2 שלושה
+-שלושתם :PRP-PERS:S_PRN-M-P-3 שלושה
+-שלושתנו :PRP-PERS:S_PRN-MF-P-1 שלושה
+-שלושתן :PRP-PERS:S_PRN-F-P-3 שלושה
++שלושתיכם :PRP:S_PRN-M-P-2 שלושה
++שלושתיכן :PRP:S_PRN-F-P-2 שלושה
++שלושתינו :PRP:S_PRN-MF-P-1 שלושה
++שלושתכם :PRP:S_PRN-M-P-2 שלושה
++שלושתכן :PRP:S_PRN-F-P-2 שלושה
++שלושתם :PRP:S_PRN-M-P-3 שלושה
++שלושתנו :PRP:S_PRN-MF-P-1 שלושה
++שלושתן :PRP:S_PRN-F-P-3 שלושה
+ שלושת :CDT-M-P: שלושה
+ שלוש :CD-F-S: שלוש :CDT-F-S: שלוש
+ שלוה :NN-M-S:S_PP-F-S-3 שליו
+@@ -96109,11 +96109,11 @@
+ שמונם :NN-M-S:S_PP-M-P-3 שימון
+ שמוננו :NN-M-S:S_PP-MF-P-1 שימון
+ שמונן :NN-M-S:S_PP-F-P-3 שימון
+-שמונתכם :PRP-PERS:S_PRN-MF-P-1 שמונה
+-שמונתכן :PRP-PERS:S_PRN-F-P-2 שמונה
+-שמונתם :PRP-PERS:S_PRN-M-P-3 שמונה
+-שמונתנו :PRP-PERS:S_PRN-MF-P-1 שמונה
+-שמונתן :PRP-PERS:S_PRN-F-P-3 שמונה
++שמונתכם :PRP:S_PRN-MF-P-1 שמונה
++שמונתכן :PRP:S_PRN-F-P-2 שמונה
++שמונתם :PRP:S_PRN-M-P-3 שמונה
++שמונתנו :PRP:S_PRN-MF-P-1 שמונה
++שמונתן :PRP:S_PRN-F-P-3 שמונה
+ שמונת :CDT-M-P: שמונה
+ שמונו :NN-M-S:S_PP-M-S-3 שימון
+ שמון :NN-M-S: שימון :NNT-M-S: שימון
+@@ -96364,7 +96364,7 @@
+ שניצלן :NN-M-S:S_PP-F-P-3 שניצל
+ שניצלו :NN-M-S:S_PP-M-S-3 שניצל
+ שניצל :NN-M-S: שניצל :NNT-M-S: שניצל
+-שניהם :PRP-PERS:S_PRN-M-P-3 שניים
++שניהם :PRP:S_PRN-M-P-3 שניים
+ שניה :NN-F-S: שנייה :CD-F-S: שני
+ שניידר :NNP: שניידר
+ שנייה :NN-F-S: שנייה :CD-F-S: שני
+@@ -96379,7 +96379,7 @@
+ שנייתן :NN-F-S:S_PP-F-P-3 שנייה
+ שנייתו :NN-F-S:S_PP-M-S-3 שנייה
+ שניית :NNT-F-S: שנייה :CDT-F-S: שני
+-שניכם :PRP-PERS:S_PRN-M-P-2 שניים
++שניכם :PRP:S_PRN-M-P-2 שניים
+ שנים :NN-F-P: שנה
+ שנינה :NN-F-S: שנינה :VB-F-P-2-IMPERATIVE-PAAL: שנה :VB-F-P-2-IMPERATIVE-PIEL: שינה
+ שנינתה :NN-F-S:S_PP-F-S-3 שנינה
+@@ -96424,7 +96424,7 @@
+ שנינותן :NN-F-S:S_PP-F-P-3 שנינות
+ שנינותו :NN-F-S:S_PP-M-S-3 שנינות
+ שנינות :NN-F-S: שנינות :NN-F-P: שנינה :NNT-F-S: שנינות :NNT-F-P: שנינה
+-שנינו :VB-MF-P-1-PAST-PAAL: שנה :PRP-PERS: שניים
++שנינו :VB-MF-P-1-PAST-PAAL: שנה :PRP: שניים
+ שניר :NNP-M-S: שניר :NNP-M-S: שניר
+ שניתה :NN-F-S:S_PP-F-S-3 שנייה
+ שניתי :NN-F-S:S_PP-MF-S-1 שנייה :VB-MF-S-1-PAST-PAAL: שנה
+@@ -498000,11 +498000,11 @@
+ תשערנה :VB-F-P-2-FUTURE-PIEL: שיער :VB-F-P-3-FUTURE-PIEL: שיער
+ תשערו :VB-MF-P-2-FUTURE-PIEL: שיער
+ תשער :VB-M-S-2-FUTURE-PIEL: שיער :VB-F-S-3-FUTURE-PIEL: שיער
+-תשעתכם :PRP-PERS:S_PRN-M-P-2 תשעה
+-תשעתכן :PRP-PERS:S_PRN-F-P-2 תשעה
+-תשעתם :PRP-PERS:S_PRN-M-P-3 תשעה
+-תשעתנו :PRP-PERS:S_PRN-MF-P-1 תשעה
+-תשעתן :PRP-PERS:S_PRN-F-P-3 תשעה
++תשעתכם :PRP:S_PRN-M-P-2 תשעה
++תשעתכן :PRP:S_PRN-F-P-2 תשעה
++תשעתם :PRP:S_PRN-M-P-3 תשעה
++תשעתנו :PRP:S_PRN-MF-P-1 תשעה
++תשעתן :PRP:S_PRN-F-P-3 תשעה
+ תשעתקי :VB-F-S-2-FUTURE-PIEL: שעתק
+ תשעתקנה :VB-F-P-2-FUTURE-PIEL: שעתק :VB-F-P-3-FUTURE-PIEL: שעתק
+ תשעתקו :VB-MF-P-2-FUTURE-PIEL: שעתק
+@@ -538341,12 +538341,12 @@
+ חמשנו :VB-MF-P-1-PAST-PIEL: חימש
+ חמשתה :NN-F-S:S_PP-F-S-3 חמשה
+ חמשתי :NN-F-S:S_PP-MF-S-1 חמשה :VB-MF-S-1-PAST-PIEL: חימש
+-חמשתכם :NN-F-S:S_PP-M-P-2 חמשה :PRP-PERS:S_PRN-M-P-2 חמישה
+-חמשתכן :NN-F-S:S_PP-F-P-2 חמשה :PRP-PERS:S_PRN-F-P-2 חמישה
++חמשתכם :NN-F-S:S_PP-M-P-2 חמשה :PRP:S_PRN-M-P-2 חמישה
++חמשתכן :NN-F-S:S_PP-F-P-2 חמשה :PRP:S_PRN-F-P-2 חמישה
+ חמשתך :NN-F-S:S_PP-M-S-2 חמשה :NN-F-S:S_PP-F-S-2 חמשה
+ חמשתם :NN-F-S:S_PP-M-P-3 חמשה :VB-M-P-2-PAST-PIEL: חימש
+-חמשתנו :NN-F-S:S_PP-MF-P-1 חמשה :PRP-PERS:S_PRN-MF-P-1 חמישה
+-חמשתן :NN-F-S:S_PP-F-P-3 חמשה :VB-F-P-2-PAST-PIEL: חימש :PRP-PERS:S_PRN-F-P-3 חמישה
++חמשתנו :NN-F-S:S_PP-MF-P-1 חמשה :PRP:S_PRN-MF-P-1 חמישה
++חמשתן :NN-F-S:S_PP-F-P-3 חמשה :VB-F-P-2-PAST-PIEL: חימש :PRP:S_PRN-F-P-3 חמישה
+ חמשתו :NN-F-S:S_PP-M-S-3 חמשה
+ חמשת :NNT-F-S: חמשה :CDT-M-P: חמישה :VB-M-S-2-PAST-PIEL: חימש :VB-F-S-2-PAST-PIEL: חימש
+ חמשותיהם :NN-F-P:S_PP-M-P-3 חמשה
+@@ -538458,10 +538458,10 @@
+ חמישיותי :NN-F-P:S_PP-MF-S-1 חמישייה
+ חמישיות :NN-F-P: חמישייה :CD-F-P: חמישי :CD-F-P: חמישית :NNT-F-P: חמישייה :CDT-F-P: חמישית
+ חמישי :CD-M-P: חמישי
+-חמישתכם :PRP-PERS:S_PRN-M-P-2 חמישה
+-חמישתם :PRP-PERS:S_PRN-MF-P-3 חמישה
+-חמישתנו :PRP-PERS:S_PRN-MF-P-1 חמישה
+-חמישתן :PRP-PERS:S_PRN-F-P-3 חמישה
++חמישתכם :PRP:S_PRN-M-P-2 חמישה
++חמישתם :PRP:S_PRN-M-P-3 חמישה
++חמישתנו :PRP:S_PRN-MF-P-1 חמישה
++חמישתן :PRP:S_PRN-F-P-3 חמישה
+ חמיהם :NN-M-P:S_PP-M-P-3 חם
+ חמיהן :NN-M-P:S_PP-F-P-3 חם
+ חמיה :NN-M-S:S_PP-F-S-3 חם :NN-M-P:S_PP-F-S-3 חם
+@@ -548010,7 +548010,7 @@
+ עצמכם :PRP-REF:S_PRN-M-P-2 עצמו
+ עצמכן :PRP-REF:S_PRN-F-P-2 עצמו
+ עצמך :PRP-REF:S_PRN-M-S-2 עצמו :PRP-REF:S_PRN-F-S-2 עצמו
+-עצמם :PRP-REF:S_PRN-MF-P-3 עצמו
++עצמם :PRP-REF:S_PRN-M-P-3 עצמו
+ עצמנו :VB-MF-P-1-PAST-PAAL: עצם :PRP-REF:S_PRN-MF-P-1 עצמו
+ עצמן :PRP-REF:S_PRN-F-P-3 עצמו
+ עצמתה :NN-F-S:S_PP-F-S-3 עוצמה
+@@ -548737,11 +548737,11 @@
+ עשרנה :VB-F-P-2-IMPERATIVE-PIEL: עישר
+ עשרנו :VB-MF-P-1-PAST-PIEL: עישר
+ עשרתי :VB-MF-S-1-PAST-PIEL: עישר
+-עשרתכם :PRP-PERS:S_PRN-M-P-2 עשרה
+-עשרתכן :PRP-PERS:S_PRN-F-P-2 עשרה
+-עשרתם :VB-M-P-2-PAST-PIEL: עישר :PRP-PERS:S_PRN-F-P-2 עשרה
+-עשרתנו :PRP-PERS:S_PRN-MF-P-1 עשרה
+-עשרתן :VB-F-P-2-PAST-PIEL: עישר :PRP-PERS:S_PRN-F-P-3 עשרה
++עשרתכם :PRP:S_PRN-M-P-2 עשרה
++עשרתכן :PRP:S_PRN-F-P-2 עשרה
++עשרתם :VB-M-P-2-PAST-PIEL: עישר :PRP:S_PRN-F-P-2 עשרה
++עשרתנו :PRP:S_PRN-MF-P-1 עשרה
++עשרתן :VB-F-P-2-PAST-PIEL: עישר :PRP:S_PRN-F-P-3 עשרה
+ עשרת :CDT-M-P: עשרה :VB-M-S-2-PAST-PIEL: עישר :VB-F-S-2-PAST-PIEL: עישר :NNP-M-S: עשרת
+ עשרוניים :JJ-M-P: עשרוני
+ עשרונית :JJ-F-S: עשרוני
